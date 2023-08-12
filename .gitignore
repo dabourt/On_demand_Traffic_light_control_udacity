@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.hex
+*.cof
+Debug
+.vs
+videos
+
